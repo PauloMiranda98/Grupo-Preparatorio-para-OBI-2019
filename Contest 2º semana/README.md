@@ -1,19 +1,20 @@
 # Contest 2º Semana
-A - Fuga com Helicóptero(https://neps.academy/contest/70/problem/5)
+A - Fuga com Helicóptero (https://neps.academy/contest/70/problem/5)
 
-B - 
+B - Código (OBI 2015) (https://neps.academy/contest/70/problem/47)
 
-C -
+C - Prêmio do Milhão (https://neps.academy/contest/70/problem/48)
 
-D -
+D - Lâmpadas do Hotel (https://neps.academy/contest/70/problem/59)
 
-E - 
+E - Andando no Tempo (https://neps.academy/contest/70/problem/111)
 
-F -
+F - Atribuindo Equipes (https://neps.academy/contest/70/problem/123)
 
-G -
+G - Contagem de Algarismos (https://neps.academy/contest/70/problem/189)
 
-H -
+H - Todos os Divisores (https://neps.academy/contest/70/problem/216)
 
-I -
+I - Garçom (https://neps.academy/contest/70/problem/324)
 
+J - Saldo do Vovô (https://neps.academy/contest/70/problem/332)
