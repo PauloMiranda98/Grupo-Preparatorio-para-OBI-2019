@@ -1,13 +1,13 @@
 # Contest 2º Semana
 
-##Assuntos
+## Assuntos
 
 - Introdução
 - Entrada e Saída
 - Seleção (if, else)
 - Laços (For e while)
 
-##Contest
+## Contest
 
 A - Fuga com Helicóptero (https://neps.academy/contest/70/problem/5)
 
@@ -29,4 +29,4 @@ I - Garçom (https://neps.academy/contest/70/problem/324)
 
 J - Saldo do Vovô (https://neps.academy/contest/70/problem/332)
 
-Link: https://neps.academy/contest/70/dashboard
+Link do Contest: https://neps.academy/contest/70/dashboard
