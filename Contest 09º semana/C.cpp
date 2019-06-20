@@ -29,28 +29,34 @@ int main() {
 	}
 	
 	int ans = 0;
-	int total = 0;
+	
+	int total = 0; //Conta a quantidade de grupos
 	sort(v, v+n, comp);
 
 	int i = 0;
 	while(i<n){
 		int j=i;
-
+		
+		//inserindo quem tem valor v[i].val
 		while(j<n and (v[i].val == v[j].val)){
+			
+			//Junta dois grupos
 			if( mark[v[j].pos-1] and mark[v[j].pos+1])
 				total--;
+			//Cria um grupo novo
 			else if( !mark[v[j].pos-1] and !mark[v[j].pos+1])
 				total++;
-
+			
 			mark[v[j].pos] = true;
 			j++;
 		}
 		
+		//Verificar se é a melhor resposta
 		ans = max(total, ans);
 		i = j;	
 	}
 	
-	//ans + parte de baixo
+	//Quantidade de grupo acima da melhor linha + parte de baixo
 	cout << ans+1 << "\n";
 			
 	return 0;
