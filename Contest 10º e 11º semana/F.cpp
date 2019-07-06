@@ -43,11 +43,15 @@ int pd(int ant, int atual){
 	
 	if(ant == 0)//Ninguem foi escolhido ainda
 		return memo[ant][atual] = max(pd(atual, atual+1) + 1, pd(ant, atual+1) );		
-			
+
+	//Vetor do ponto A para o anterior
 	Par v_a_ant(vetor[ant].x - a, vetor[ant].y - 0);
+	//Vetor do ponto B para o anterior
 	Par v_b_ant(vetor[ant].x - b, vetor[ant].y - 0);
 	
+	//Vetor do ponto A para o atual
 	Par v_a_atual(vetor[atual].x - a, vetor[atual].y - 0);
+	//Vetor do ponto B para o atual
 	Par v_b_atual(vetor[atual].x - b, vetor[atual].y - 0);
 	
  	if( (cross(v_a_atual, v_a_ant) > 0)  and (cross(v_b_atual, v_b_ant) < 0) ) //O atual pode ser escolhido
