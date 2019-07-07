@@ -6,10 +6,15 @@ using namespace std;
 const int INF = 0x3f3f3f3f;
 
 vector<int> chefe[510];
-int idade[510];
-int id[510];
 bool visitado[510];
 
+//Idade das pessoas
+int idade[510];
+
+//Onde as pessoas estão
+int id[510];
+
+//Retorna a menor idade começando por u
 int dfs(int u){
 	int ans = INF;
 	
