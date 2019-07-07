@@ -25,6 +25,7 @@ int main(){
 		cin >> vetor[i].r;		
 	}
 	
+	//Ordenar pela resistência
 	sort(vetor, vetor + n, compara);
 	
 	for(int i=0; i<=n; i++){
@@ -38,8 +39,8 @@ int main(){
 	
 	for(int i=0; i<n; i++){
 		for(int q=n; q>=0; q--){
-			if( (pd[q]+vetor[i].p) <= vetor[i].r){ // eh possivel colocar a caixa em baixo
-				if( (pd[q]+vetor[i].p) < pd[q+1] ){ // Verificar se eh vantajoso atualizar a nova forma de formar o q+1
+			if( (pd[q]+vetor[i].p) <= vetor[i].r){ //É possivel colocar a caixa em baixo
+				if( (pd[q]+vetor[i].p) < pd[q+1] ){ //Verificar se é vantajoso atualizar o novo peso de q+1 caixas
 					pd[q+1] = pd[q]+vetor[i].p;
 					maximo = max(maximo, q+1);
 				}
