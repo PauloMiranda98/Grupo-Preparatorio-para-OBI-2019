@@ -21,8 +21,10 @@ E - Produto do Intervalo (https://neps.academy/contest/142/problem/327)
 
 F - Banco do Faraó (https://neps.academy/contest/142/problem/330)
 
-G - Mercado do Cairo (https://neps.academy/contest/142/problem/348)
+G - Caixas de Moedas (https://neps.academy/contest/142/problem/347)
 
-H - Cortador de Pizza (https://neps.academy/contest/142/problem/406)
+H - Mercado do Cairo (https://neps.academy/contest/142/problem/348)
+
+I - Cortador de Pizza (https://neps.academy/contest/142/problem/406)
 	
 Link do Contest: https://neps.academy/contest/142/dashboard
