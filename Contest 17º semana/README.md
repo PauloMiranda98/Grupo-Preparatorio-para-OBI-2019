@@ -3,10 +3,10 @@
 ## Assuntos
 
 - Menor Ancestral Comum: https://neps.academy/lesson/199
+- Union-Find: https://neps.academy/lesson/261
 - Permutações e Combinações: https://neps.academy/lesson/229
 - Princípios Combinatórios: https://neps.academy/lesson/230
 - Priority Queue: https://neps.academy/lesson/259
-- Árvore de Segmentos com Lazy Propagation: https://neps.academy/lesson/264
 
 ## Contest
 
