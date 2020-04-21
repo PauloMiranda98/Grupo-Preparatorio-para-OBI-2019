@@ -12,24 +12,26 @@
 
 A - Clube dos Cinco (https://neps.academy/contest/148/problem/55)
 
-B - Caixinha de Palitos (https://neps.academy/contest/148/problem/74)
+B - Sanduiche (https://neps.academy/contest/148/problem/60)
 
-C - Lançamento de dados (https://neps.academy/contest/148/problem/188)
+C - Caixinha de Palitos (https://neps.academy/contest/148/problem/74)
 
-D - Fusões (https://neps.academy/contest/148/problem/264)
+D - Lançamento de dados (https://neps.academy/contest/148/problem/188)
 
-E - Telemarketing (https://neps.academy/contest/148/problem/265)
+E - Fusões (https://neps.academy/contest/148/problem/264)
 
-F - Banco (https://neps.academy/contest/148/problem/273)
+F - Telemarketing (https://neps.academy/contest/148/problem/265)
 
-G - Guildas (https://neps.academy/contest/148/problem/286)
+G - Banco (https://neps.academy/contest/148/problem/273)
 
-H - Escalonamento Ótimo (https://neps.academy/contest/148/problem/331)
+H - Guildas (https://neps.academy/contest/148/problem/286)
 
-I - Colônia de Formigas (https://neps.academy/contest/148/problem/333)
+I - Escalonamento Ótimo (https://neps.academy/contest/148/problem/331)
 
-J - Jogo da Memória (https://neps.academy/contest/148/problem/336)
+J - Colônia de Formigas (https://neps.academy/contest/148/problem/333)
 
-K - Oráculo de Alexandria (https://neps.academy/contest/148/problem/340)
+K - Jogo da Memória (https://neps.academy/contest/148/problem/336)
+
+L - Oráculo de Alexandria (https://neps.academy/contest/148/problem/340)
 	
 Link do Contest: https://neps.academy/contest/148/dashboard
